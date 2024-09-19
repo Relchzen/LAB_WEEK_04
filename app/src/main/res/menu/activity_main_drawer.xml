@@ -6,7 +6,7 @@
         android:id="@+id/menu_top"
         android:checkableBehavior="single">
         <item
-            android:id="@+id/listFragment"
+            android:id="@+id/fragmentList"
             android:icon="@drawable/coffee_menu"
             android:title="@string/menu_coffee" />
     </group>
